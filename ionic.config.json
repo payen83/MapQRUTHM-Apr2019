@@ -1,5 +1,7 @@
 {
   "name": "MyTabApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
